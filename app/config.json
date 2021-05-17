@@ -1,6 +1,6 @@
 {
     "images": {
-        "output_directory": "./images/",
+        "output_directory": "/mnt/growlablive",
         "encoding": "jpeg",
         "width": 3280,
         "height": 2464,

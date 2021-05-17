@@ -1,4 +1,0 @@
-requests
-pimoroni-bme280
-bmp280
-smbus

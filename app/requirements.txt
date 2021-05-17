@@ -1,5 +1,0 @@
-smbus
-pimoroni-bme280
-picamera
-pillow
-Jinja2

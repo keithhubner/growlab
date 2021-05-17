@@ -1,5 +1,5 @@
 #!/bin/bash
-python3 app.py
+#python3 app.py
 
 export GIT_SSH_COMMAND="ssh -i `pwd`/.ssh/id_rsa"
 
